@@ -1,0 +1,16 @@
+img{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 20px;
+    display: flexbox;
+}
+button{
+    margin-left: 0px;
+    margin-right: x;
+    text-decoration: none;
+
+}
+.bg{
+    background-image: url("img/bookclub.jpg") ;
+}
