@@ -1,7 +1,7 @@
 /* REMOVE THIS, USE YOUR OWN  */
 html,body {
-    margin: 0;
-    padding: 0;
+    /* margin: 0;
+    padding: 0; */
     font-family: Arial, Helvetica, Sans-serif;
     /* background-color: #070617; */
   }
@@ -106,4 +106,10 @@ html,body {
   }
 .background{
     background-color: white;
+}
+h2{
+  text-align: center;
+}
+.bg{
+  background-image: url("img/bookclub.jpg") ;
 }
